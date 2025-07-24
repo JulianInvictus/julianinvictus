@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👨‍💻Learning about Git
+- 🦸‍♂️Working on a community Marvel project
+- 🚶‍♂️Masquerading as a full-time pol in D.C.
+- 👤Ask me about rowing!
