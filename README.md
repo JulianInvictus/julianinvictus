@@ -44,12 +44,6 @@ D.C.-based policy staffer who writes code on the side. I work at the intersectio
 
 ---
 
-## GitHub stats
-
-[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianInvictus&show_icons=true&hide_border=true&count_private=true&theme=default)](https://github.com/JulianInvictus)
-
----
-
 ## Say hi
 
 [![Discord](https://img.shields.io/badge/@JulianInvictus-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/owu)
